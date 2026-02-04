@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Edp.IoT.ControlCenter.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d3ddd918f353445427e8be46ee607ab130f412a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1543766b1e2d9e8afc06dd8f0185b117f06b50b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Edp.IoT.ControlCenter.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Edp.IoT.ControlCenter.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

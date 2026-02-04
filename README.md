@@ -1,1 +1,0 @@
-# iotgp-platform-control-center
