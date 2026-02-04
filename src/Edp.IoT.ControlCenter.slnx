@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Edp.IoT.ControlCenter.Web.Api/Edp.IoT.ControlCenter.Web.Api.csproj" />
+  <Project Path="Edp.IoT.ControlCenter.Web/Edp.IoT.ControlCenter.Web.csproj" />
+</Solution>
