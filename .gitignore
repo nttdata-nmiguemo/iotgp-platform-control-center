@@ -1,6 +1,4 @@
-/.idea/
-/src/.idea/
-/src/Edp.IoT.ControlCenter.Web/obj/
-/src/Edp.IoT.ControlCenter.Web/bin/
-/src/Edp.IoT.ControlCenter.Web.Api/bin/
-/src/Edp.IoT.ControlCenter.Web.Api/obj/
+*.idea/
+*/obj/
+*/bin/
+*.DS_Store

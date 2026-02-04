@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "Edp.IoT.ControlCenter.Web",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-xJzHbvkZ4MB+7Fn179OFbwzL1Vu/jbWW3qwFz4wez9k=",
+    "hash": "sha256-LDQ174Eqo9UKG58aVc9JkLoV7y7Qu5R2IFA2UReNe94=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.xanz2e7ksm.js"
@@ -1059,15 +1059,15 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "Edp.IoT.ControlCenter.Web.wasm",
-        "name": "Edp.IoT.ControlCenter.Web.yrhag8r6nn.wasm",
-        "integrity": "sha256-gicqdzgNFRnFpB4esvagWogNqgRCMjUIHAdE8YHNu0Y="
+        "name": "Edp.IoT.ControlCenter.Web.9socdo1vjj.wasm",
+        "integrity": "sha256-h5oyeOBj+/LWvTiONU+NOp6NSo+uU2fZ1vtq+MY0kCQ="
       }
     ],
     "pdb": [
       {
         "virtualPath": "Edp.IoT.ControlCenter.Web.pdb",
-        "name": "Edp.IoT.ControlCenter.Web.2ysyadjkug.pdb",
-        "integrity": "sha256-9mrjQAAIoU2OIbsgS9QuQctPliy6pWAvYnhPK1ohfT0="
+        "name": "Edp.IoT.ControlCenter.Web.65jt3bl4cc.pdb",
+        "integrity": "sha256-KkWorwUK+31JdU+Z2k+Pv2rxaAWlUTewpa2DbOlDQu0="
       }
     ],
     "libraryInitializers": [
